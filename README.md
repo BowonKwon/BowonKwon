@@ -9,6 +9,7 @@
 | **법률 외국어 자습서** — 열 개 언어, 화면본·PDF·Anki | [사이트](https://bowonkwon.github.io/Legal-Language-Handbooks/) · [저장소](https://github.com/BowonKwon/Legal-Language-Handbooks) |
 | **AI 자습서** — Agentic AI 논문 읽기·실전편, AI 인프라와 반도체, 법률가를 위한 LLM 위키 | [사이트](https://bowonkwon.github.io/AI-Assisted-Handbooks/) · [저장소](https://github.com/BowonKwon/AI-Assisted-Handbooks) |
 | **서양 고전 음악 메트릭스** — 악보와 연주를 숫자로 읽는 공개 데이터 사이트 | [사이트](https://bowonkwon.github.io/Classical-Music-Metrics/) · [저장소](https://github.com/BowonKwon/Classical-Music-Metrics) |
+| **물리 상수 메트릭스** — CODATA 기본 물리 상수 1969~2022, 공표된 오차 막대가 다음 판의 값을 얼마나 자주 놓쳤나 | [사이트](https://bowonkwon.github.io/Physical-Constants-Metrics/) · [저장소](https://github.com/BowonKwon/Physical-Constants-Metrics) |
 
 ---
 
@@ -21,5 +22,6 @@ Public materials compiled with generative AI, gathered in one place. All were ch
 | **Legal Language Handbooks** — ten languages; web, PDF and Anki | [site](https://bowonkwon.github.io/Legal-Language-Handbooks/) · [repo](https://github.com/BowonKwon/Legal-Language-Handbooks) |
 | **AI-Assisted Handbooks** — agentic-AI papers and practice, AI infrastructure and semiconductors, an LLM wiki guide for lawyers | [site](https://bowonkwon.github.io/AI-Assisted-Handbooks/) · [repo](https://github.com/BowonKwon/AI-Assisted-Handbooks) |
 | **Classical Music Metrics** — an open data site that reads scores and performances as numbers | [site](https://bowonkwon.github.io/Classical-Music-Metrics/) · [repo](https://github.com/BowonKwon/Classical-Music-Metrics) |
+| **Physical Constants Metrics** — CODATA fundamental constants, 1969–2022: how often published error bars missed the next edition | [site](https://bowonkwon.github.io/Physical-Constants-Metrics/en/) · [repo](https://github.com/BowonKwon/Physical-Constants-Metrics) |
 
 These are personal study materials and do not represent the views or work of any institution the editor belongs to. Not legal advice.
