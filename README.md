@@ -13,6 +13,7 @@
 | **물리 상수 메트릭스** — CODATA 물리 상수와 CIAAW 원자량의 권고값이 스스로 밝힌 불확도만큼 믿을 만했는지 | [사이트](https://bowonkwon.github.io/Physical-Constants-Metrics/) · [저장소](https://github.com/BowonKwon/Physical-Constants-Metrics) |
 | **실록 메트릭스** — 조선왕조실록을 기사 단위로 센 지표 34개와, 그 수치를 얼마나 믿어도 되는지. 1.2 는 고려사·승정원일기의 천문 기사와 승정원일기 날씨 칸까지 같은 잣대로 센다 | [사이트](https://bowonkwon.github.io/Sillok-Metrics/) · [저장소](https://github.com/BowonKwon/Sillok-Metrics) |
 | **특권에서 특허로** — 근대 특허법·저작권법 이전 베네치아·잉글랜드·네덜란드의 발명·출판 특권을 남은 목록에서 한 건씩 센 지표 18개와 신뢰도 카드 | [사이트](https://bowonkwon.github.io/Privilege-Metrics/) · [저장소](https://github.com/BowonKwon/Privilege-Metrics) |
+| **문집 메트릭스** — 한국문집총간 1,249종의 원문 전문을 637,203편으로 나누어 센 지표 23개(규모·문체 구성·관계 문체·저자와 간행)와 신뢰도 카드 | [사이트](https://bowonkwon.github.io/Munjip-Metrics/) · [저장소](https://github.com/BowonKwon/Munjip-Metrics) |
 
 ---
 
@@ -29,5 +30,6 @@ Public materials compiled with generative AI, gathered in one place. All were ch
 | **Physical Constants Metrics** — whether CODATA physical constants and CIAAW atomic weights were as reliable as their own stated uncertainties | [site](https://bowonkwon.github.io/Physical-Constants-Metrics/en/) · [repo](https://github.com/BowonKwon/Physical-Constants-Metrics) |
 | **Sillok Metrics** — the Veritable Records of the Joseon Dynasty counted article by article, 34 metrics, each with a reliability card; version 1.2 extends the same yardstick to the Goryeosa and Seungjeongwon Ilgi sky records and the Ilgi's weather cell | [site](https://bowonkwon.github.io/Sillok-Metrics/en/) · [repo](https://github.com/BowonKwon/Sillok-Metrics) |
 | **From Privilege to Patent** — invention and printing privileges in Venice, England and the Dutch Republic before modern patents, counted grant by grant from the surviving lists: 18 metrics, each with a reliability card | [site](https://bowonkwon.github.io/Privilege-Metrics/en/) · [repo](https://github.com/BowonKwon/Privilege-Metrics) |
+| **Munjip Metrics** — the full text of the 1,249 collections of the Hanguk munjip chonggan split into 637,203 works and counted in 23 metrics (size, genre composition, relationship genres, authors and publication), each with a reliability card | [site](https://bowonkwon.github.io/Munjip-Metrics/en/) · [repo](https://github.com/BowonKwon/Munjip-Metrics) |
 
 These are personal study materials and do not represent the views or work of any institution the editor belongs to. Not legal advice.
