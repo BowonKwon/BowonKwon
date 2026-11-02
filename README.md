@@ -11,7 +11,7 @@
 | **서양 고전 음악 메트릭스** — 악보와 연주를 숫자로 읽는 공개 데이터 사이트 | [사이트](https://bowonkwon.github.io/Classical-Music-Metrics/) · [저장소](https://github.com/BowonKwon/Classical-Music-Metrics) |
 | **동물의 신호, 어디까지 알았나** — 동물 신호 연구를 주장 하나씩 나누어 원 논문으로 근거 등급을 매긴 사이트 | [사이트](https://bowonkwon.github.io/Animal-Signals/) · [저장소](https://github.com/BowonKwon/Animal-Signals) |
 | **물리 상수 메트릭스** — CODATA 물리 상수와 CIAAW 원자량의 권고값이 스스로 밝힌 불확도만큼 믿을 만했는지 | [사이트](https://bowonkwon.github.io/Physical-Constants-Metrics/) · [저장소](https://github.com/BowonKwon/Physical-Constants-Metrics) |
-| **실록 메트릭스** — 조선왕조실록을 기사 단위로 센 수치와, 그 수치를 얼마나 믿어도 되는지 | [사이트](https://bowonkwon.github.io/Sillok-Metrics/) · [저장소](https://github.com/BowonKwon/Sillok-Metrics) |
+| **실록 메트릭스** — 조선왕조실록을 기사 단위로 센 지표 34개와, 그 수치를 얼마나 믿어도 되는지. 1.2 는 고려사·승정원일기의 천문 기사와 승정원일기 날씨 칸까지 같은 잣대로 센다 | [사이트](https://bowonkwon.github.io/Sillok-Metrics/) · [저장소](https://github.com/BowonKwon/Sillok-Metrics) |
 
 ---
 
@@ -26,6 +26,6 @@ Public materials compiled with generative AI, gathered in one place. All were ch
 | **Classical Music Metrics** — an open data site that reads scores and performances as numbers | [site](https://bowonkwon.github.io/Classical-Music-Metrics/) · [repo](https://github.com/BowonKwon/Classical-Music-Metrics) |
 | **Animal Signals** — research on animal signals split into single claims, each graded for evidence from the original paper | [site](https://bowonkwon.github.io/Animal-Signals/) · [repo](https://github.com/BowonKwon/Animal-Signals) |
 | **Physical Constants Metrics** — whether CODATA physical constants and CIAAW atomic weights were as reliable as their own stated uncertainties | [site](https://bowonkwon.github.io/Physical-Constants-Metrics/en/) · [repo](https://github.com/BowonKwon/Physical-Constants-Metrics) |
-| **Sillok Metrics** — the Veritable Records of the Joseon Dynasty counted article by article, with a reliability card on every number | [site](https://bowonkwon.github.io/Sillok-Metrics/en/) · [repo](https://github.com/BowonKwon/Sillok-Metrics) |
+| **Sillok Metrics** — the Veritable Records of the Joseon Dynasty counted article by article, 34 metrics, each with a reliability card; version 1.2 extends the same yardstick to the Goryeosa and Seungjeongwon Ilgi sky records and the Ilgi's weather cell | [site](https://bowonkwon.github.io/Sillok-Metrics/en/) · [repo](https://github.com/BowonKwon/Sillok-Metrics) |
 
 These are personal study materials and do not represent the views or work of any institution the editor belongs to. Not legal advice.
